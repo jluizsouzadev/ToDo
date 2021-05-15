@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">To Do</string>
+    <string name="textViewAddAccount">Add account</string>
+    <string name="contentDescriptionSecretaryImage">Secretary</string>
+    <string name="autofillHintsEmailAddressOrPhone">Email or phone number</string>
+    <string name="hintEmailAddressOrPhone">Email or phone number</string>
+    <string name="signInDescription">Sign in with a work, school, or Microsoft account.</string>
+    <string name="buttonSignIn">Sign In</string>
+    <string name="microsoftAccount">Don\'t have a Microsoft account?</string>
+    <string name="title_dynamicfeature">Module Title</string>
+</resources>

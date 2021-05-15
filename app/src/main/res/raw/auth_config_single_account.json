@@ -1,0 +1,17 @@
+{
+  "client_id" : "41b2db0f-d4f8-45bf-833f-06e5d0f42a77",
+  "authorization_user_agent" : "DEFAULT",
+  "redirect_uri" : "msauth://com.example.todo/X1PjVudyRr1Nmq81fEIOo%2Fsg2n4%3D",
+  "account_mode" : "SINGLE",
+  "broker_redirect_uri_registered": true,
+  "shared_device_mode_supported": true,
+  "authorities" : [
+    {
+      "type": "AAD",
+      "audience": {
+        "type": "AzureADandPersonalMicrosoftAccount",
+        "tenant_id": "common"
+      }
+    }
+  ]
+}

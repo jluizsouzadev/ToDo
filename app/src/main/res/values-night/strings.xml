@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="textViewAddAccount">Add account</string>
+    <string name="contentDescriptionSecretaryImage">Secretary</string>
+    <string name="autofillHintsEmailAddressOrPhone">Email or phone number</string>
+    <string name="hintEmailAddressOrPhone">Email or phone number</string>
+    <string name="signInDescription">Sign in with a work, school, or Microsoft account.</string>
+    <string name="buttonSignIn">Sign In</string>
+    <string name="microsoftAccount">Don\'t have a Microsoft account?</string>
+</resources>
